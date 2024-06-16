@@ -35,7 +35,7 @@ Execute the cells in sequence to view the analysis and visualizations.
 
 ## Visualizations
 - **Figure 1**: Scatter plot of Age vs Maximum Heart Rate.
-![image](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/9d0ada19-0eeb-47fa-a37b-6ea6fa162e3d)
+- ![image](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/99790183-b7ce-41ca-9114-56dc1fb4d99f)
 
 - **Figure 2**: Bar chart of Heart Disease Presence by Age Group.
 ![Untitled](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/89773743-80fc-450d-86e2-651ff184eea3)
