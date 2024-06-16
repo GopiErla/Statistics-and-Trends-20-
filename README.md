@@ -35,9 +35,19 @@ Execute the cells in sequence to view the analysis and visualizations.
 
 ## Visualizations
 - **Figure 1**: Scatter plot of Age vs Maximum Heart Rate.
+  ![Untitled-1](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/dcb1f5ef-8d9d-4d88-970b-4f784afa5a36)
+
 - **Figure 2**: Bar chart of Heart Disease Presence by Age Group.
+![Untitled](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/89773743-80fc-450d-86e2-651ff184eea3)
+
+
 - **Figure 3**: Box plot of Cholesterol Levels by Heart Disease Status and Gender.
+![Untitled-1](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/a8365550-738d-473b-b76b-de48be8829c2)
+
+
 - **Figure 4**: Heatmap of the correlation matrix of heart disease variables.
+  ![Untitled](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/9de3e9b1-fffc-4083-807d-fd1f9bea1574)
+
 
 ## Data Source
 This project uses data from [Insert Source Name], available at [Insert Source URL].
