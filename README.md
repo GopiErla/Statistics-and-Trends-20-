@@ -4,7 +4,7 @@
 # Project Title: Analysis of Heart Disease Trends
 
 ## Project Overview
-This project analyzes trends in heart disease using a dataset from [Insert Source Name]. The aim is to identify key factors contributing to cardiovascular health by exploring relationships between age, cholesterol levels, blood pressure, and heart rate.
+This project analyzes trends in heart disease using a dataset from UCI. The aim is to identify key factors contributing to cardiovascular health by exploring relationships between age, cholesterol levels, blood pressure, and heart rate.
 
 ## Files in the Repository
 - `heart_disease_analysis.ipynb`: Jupyter Notebook containing all the data analysis code and visualizations.
@@ -35,7 +35,7 @@ Execute the cells in sequence to view the analysis and visualizations.
 
 ## Visualizations
 - **Figure 1**: Scatter plot of Age vs Maximum Heart Rate.
-  ![Untitled-1](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/dcb1f5ef-8d9d-4d88-970b-4f784afa5a36)
+![image](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/9d0ada19-0eeb-47fa-a37b-6ea6fa162e3d)
 
 - **Figure 2**: Bar chart of Heart Disease Presence by Age Group.
 ![Untitled](https://github.com/GopiErla/Statistics-and-Trends-20-/assets/161200181/89773743-80fc-450d-86e2-651ff184eea3)
@@ -50,7 +50,7 @@ Execute the cells in sequence to view the analysis and visualizations.
 
 
 ## Data Source
-This project uses data from [UCI], available at [[Insert Source URL](https://archive.ics.uci.edu/dataset/45/heart+disease)].
+This project uses data from [UCI], available at [(https://archive.ics.uci.edu/dataset/45/heart+disease)].
 
 ## Acknowledgments
 Special thanks to the American Heart Association and World Health Organization for providing guidelines and data that inspired and informed this analysis.
