@@ -50,7 +50,7 @@ Execute the cells in sequence to view the analysis and visualizations.
 
 
 ## Data Source
-This project uses data from [Insert Source Name], available at [Insert Source URL].
+This project uses data from [UCI], available at [[Insert Source URL](https://archive.ics.uci.edu/dataset/45/heart+disease)].
 
 ## Acknowledgments
 Special thanks to the American Heart Association and World Health Organization for providing guidelines and data that inspired and informed this analysis.
